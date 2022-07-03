@@ -1,6 +1,14 @@
- Olá, Me chamo Natanael Paixão.
+Olá, sou Natanael Paixão 👨‍💻
+
+✔Cursando Ciência da Computação, atualmente no 7º período. 📍(Univercidade Estadual da Paraíba - UEPB)
+
+✔Trabalho atualmente com as tecnologias: SQL, MYSQL.
+
+✔Sou fascinado por tecnologia por ser uma área que mais me desafia e me encanta ao mesmo tempo.
+
+📚 Atualmente aprendendo sobre BI |  
  
- Sou estudante de Ciencia da Computação , Tenho o conhecimento e vivência prática de 9 anos no segmento de Callcenter, com experiência em vários canais como SAC, Suporte Técnico, instrutória , Supervisão, Planejamento e análise de dados. Domínio sobre indicadores e métricas e entendimento das rotinas relacionadas ao dia a dia do atendimento. Responsável pela interface entre as áreas envolvidas na solução das demandas de clientes, provendo ações ou documentos necessários para atendimento, com foco na garantia de uma excelente experiência do cliente junto aos canais de atendimento. 
+Tenho o conhecimento e vivência prática de 9 anos no segmento de Callcenter, com experiência em vários canais como SAC, Suporte Técnico, instrutória , Supervisão, Planejamento e análise de dados. Domínio sobre indicadores e métricas e entendimento das rotinas relacionadas ao dia a dia do atendimento. Responsável pela interface entre as áreas envolvidas na solução das demandas de clientes, provendo ações ou documentos necessários para atendimento, com foco na garantia de uma excelente experiência do cliente junto aos canais de atendimento. 
  
  
  
