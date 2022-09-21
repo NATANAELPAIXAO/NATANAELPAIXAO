@@ -5,7 +5,7 @@ Olá. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 🌱 Estou aprendendo atualmente sobre BI, Big Data e Data science.
 
-👯 Cursando Ciência da Computação, atualmente no 8º período. 📍(Univercidade Estadual da Paraíba - UEPB)
+👯 Cursando Ciência da Computação, 📍(Univercidade Estadual da Paraíba - UEPB)
 
 ❤Sou fascinado por tecnologia por ser uma área que mais me desafia e me encanta ao mesmo tempo.
 
